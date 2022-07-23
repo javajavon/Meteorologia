@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "437817197715",
+    "project_id": "meteorologia-efe-cm",
+    "storage_bucket": "meteorologia-efe-cm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437817197715:android:2ea7f5eeda7451020a7966",
+        "android_client_info": {
+          "package_name": "com.example.meteorologia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437817197715-tiivd09nrbrmo3a20s9p1l4f4n6r1srj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz0Ka79o-NZmBkSg40E_JLpq9LF3XL2KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437817197715-tiivd09nrbrmo3a20s9p1l4f4n6r1srj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
